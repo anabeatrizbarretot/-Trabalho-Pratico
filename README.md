@@ -11,7 +11,7 @@ Foi utilizada uma Rede Neural Convolucional (CNN) pré-treinada EfficientNetB0 c
 
 ## Repositório do projeto
 
-
+https://github.com/anabeatrizbarretot/-Trabalho-Pratico
 
 ## Vídeo de apresentação
 
