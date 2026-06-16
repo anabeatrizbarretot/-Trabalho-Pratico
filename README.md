@@ -2,7 +2,7 @@
 
 ## Equipe
 
-Ana Beatriz Barreto Teixeira
+Ana Beatriz Barreto Teixeira e
 João Miguel Dias Rosa
 
 ## Descrição da abordagem utilizada
