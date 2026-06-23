@@ -19,7 +19,7 @@ O treinamento foi realizado utilizando TensorFlow/Keras no Google Colab.
 
 ## Vídeo de apresentação
 
-
+(https://drive.google.com/file/d/19OV5s8MG0hPQ7bTqjkSjB0YN6UvoeVYf/view?usp=drivesdk)
 
 ## Dataset utilizado
 
